@@ -22,3 +22,5 @@ rebar3.crashdump
 build
 node_modules
 target
+rebar.lock
+package-lock.json
